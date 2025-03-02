@@ -1,0 +1,99 @@
+[
+  {
+    "img": "public/img/sites/iem.png",
+    "title": "IEM Bussiness School",
+    "description": "The IEM Business School ERP is a comprehensive management system designed to streamline student, teacher, and course administration. It includes features for managing formations, scheduling, and a dynamic calendar to optimize academic planning. This solution enhances efficiency by centralizing operations, ensuring seamless coordination between students, teachers, and administrators.",
+    "name": "iem",
+    "longDescription": "The IEM Business School ERP is an advanced and comprehensive management system specifically designed to streamline and optimize the administration of students, teachers, and courses within an academic institution. This robust platform serves as a centralized hub for managing a wide range of academic operations, ensuring seamless coordination and enhanced efficiency across all levels of the organization. <br> <br> One of the core features of the ERP is its ability to manage formations, allowing administrators to create, update, and track various academic programs with ease. This ensures that all courses are aligned with institutional goals and student needs. Additionally, the system includes a powerful scheduling module that simplifies the process of organizing classes, exams, and other academic activities, reducing conflicts and maximizing resource utilization.<br>A standout feature of the IEM Business School ERP is its dynamic calendar, which provides a real-time overview of academic events, deadlines, and schedules. This tool enables students, teachers, and administrators to stay informed and plan effectively, fostering better time management and collaboration. The calendar can be customized to reflect specific academic timelines, ensuring it meets the unique needs of the institution.<br> <br> By centralizing all administrative tasks, the ERP eliminates redundancies and improves communication between students, teachers, and administrative staff. Students can access their schedules, course materials, and progress reports, while teachers benefit from streamlined tools for grading, attendance tracking, and course management. Administrators gain powerful insights into academic performance, resource allocation, and institutional efficiency, enabling data-driven decision-making.<br> <br>Overall, the IEM Business School ERP is a transformative solution that enhances the academic experience by simplifying complex processes, improving coordination, and fostering a more organized and productive learning environment. It is an indispensable tool for modern educational institutions aiming to elevate their administrative capabilities and deliver exceptional academic outcomes.",
+    "link": "https://iem.quasardevelops.es/login",
+    "technologies": [
+      "devicon-javascript-plain",
+      "devicon-angularjs-plain",
+      "devicon-php-plain",
+      "devicon-symfony-original"
+    ],
+    "playStoreLink": "",
+    "appStoreLink": ""
+  },
+  {
+    "img": "public/img/sites/valenciaPort.png",
+    "title": "Valencia Port",
+    "description": "The ValenciaPort Simulator is an educational platform designed to replicate real-world operations at the Port of Valencia. It provides an interactive learning experience, allowing users to simulate logistics, cargo management, and port operations. This tool helps students and professionals gain hands-on experience in maritime trade and port administration.",
+    "name": "valenciaPort",
+    "longDescription": "The ValenciaPort Simulator is an innovative educational platform meticulously designed to replicate the intricate real-world operations of the Port of Valencia, one of the busiest and most strategic ports in the Mediterranean. This cutting-edge tool offers an immersive and interactive learning experience, enabling users to engage in realistic simulations of logistics, cargo management, and comprehensive port operations. By mirroring the complexities of maritime trade and port administration, the simulator provides a dynamic environment where students, professionals, and industry stakeholders can develop and refine their skills.<br> <br>Through its detailed and user-friendly interface, the ValenciaPort Simulator allows participants to manage various aspects of port activities, including vessel scheduling, cargo handling, storage optimization, and transportation logistics. Users can experiment with different scenarios, make strategic decisions, and observe the outcomes of their actions in a risk-free setting. This hands-on approach not only enhances theoretical knowledge but also builds practical expertise, preparing learners for the challenges of real-world port management.<br> <br>The platform is an invaluable resource for educational institutions, training programs, and professional development initiatives within the maritime and logistics sectors. It bridges the gap between classroom learning and industry practice, fostering a deeper understanding of the interconnected processes that drive global trade. By offering a realistic and engaging simulation environment, the ValenciaPort Simulator empowers users to gain confidence, improve decision-making skills, and contribute effectively to the ever-evolving field of maritime logistics and port administration.",
+    "link": "https://dev.puerto.quasardynamics.es/",
+    "technologies": [
+      "devicon-javascript-plain",
+      "devicon-angularjs-plain",
+      "devicon-php-plain",
+      "devicon-symfony-original"
+    ],
+    "playStoreLink": "",
+    "appStoreLink": ""
+  },
+  {
+    "img": "public/img/sites/nucleoNova.png",
+    "title": "Nucleo Nova",
+    "description": "This software allows users to create component templates, populate them to generate new components, load components from Excel, and export them back into Excel files.",
+    "name": "nucleoNova",
+    "longDescription": "This software is a versatile and efficient tool designed to streamline the creation, management, and organization of components. It enables users to design customizable component templates, which can be easily populated to generate new components tailored to specific requirements. The platform also supports seamless integration with Excel, allowing users to import component data directly from Excel sheets, ensuring quick and accurate data loading. Additionally, the software provides the capability to export components back into Excel files, facilitating easy sharing, analysis, and further manipulation of data. This combination of template creation, data import/export functionality, and Excel compatibility makes the software an essential solution for users seeking to optimize their workflow and enhance productivity in component management tasks.",
+    "link": "https://nucleonova.quasardevelops.es/component/main-view",
+    "technologies": [
+      "devicon-javascript-plain",
+      "devicon-angularjs-plain",
+      "devicon-php-plain",
+      "devicon-symfony-original"
+    ],
+    "playStoreLink": "",
+    "appStoreLink": ""
+  },
+  {
+    "img": "public/img/sites/teldomo.png",
+    "title": "Teldomo",
+    "description": "The Teldomo ERP software is a streamlined solution for managing construction projects and employees, featuring integrated vacation tracking to optimize scheduling and productivity.",
+    "name": "teldomo",
+    "longDescription": "The Teldomo ERP software is a comprehensive and user-friendly solution specifically designed to simplify the management of construction projects and employee operations. It serves as a centralized platform for overseeing all aspects of construction activities, from project planning and resource allocation to progress tracking and reporting. A standout feature of the software is its integrated vacation tracking system, which ensures optimal workforce scheduling by accounting for employee time off, thereby minimizing disruptions and maintaining productivity.<br> <br> By consolidating project and employee management into a single system, the Teldomo ERP enhances operational efficiency, improves communication, and provides real-time insights into project status and team availability. This powerful tool empowers construction companies to streamline workflows, reduce administrative burdens, and achieve better project outcomes, making it an indispensable asset for modern construction management.",
+    "link": "https://teldomo.test-quasardynamics.company/login",
+    "technologies": [
+      "devicon-javascript-plain",
+      "devicon-angularjs-plain",
+      "devicon-php-plain",
+      "devicon-symfony-original"
+    ],
+    "playStoreLink": "",
+    "appStoreLink": ""
+  },
+  {
+    "img": "public/img/sites/memorable.png",
+    "title": "Memorable",
+    "description": "The Memorable ERP, built with Angular, is a ticketing management system for selling party tickets, complemented by a cross-platform mobile app developed in Flutter for Android and iOS, ensuring seamless ticket sales and event management.",
+    "name": "memorable",
+    "longDescription": "The Memorable ERP is a robust and modern ticketing management system designed to streamline the sale and management of party tickets. Built with Angular, the platform offers a responsive and intuitive web interface for handling ticket sales, event organization, and customer interactions. Complementing the ERP is a cross-platform mobile app developed using Flutter, which ensures a seamless and consistent experience for users on both Android and iOS devices. Together, these tools provide a comprehensive solution for event organizers, enabling efficient ticket sales, real-time updates, and smooth event management. By integrating web and mobile capabilities, the Memorable ERP ensures accessibility, scalability, and a superior user experience for both event organizers and attendees.",
+    "link": "https://dev.grupomemorable.com/",
+    "technologies": [
+      "devicon-javascript-plain",
+      "devicon-angularjs-plain",
+      "devicon-php-plain",
+      "devicon-symfony-original",
+      "devicon-flutter-plain"
+    ],
+    "playStoreLink": "https://play.google.com/store/apps/details?id=com.memorable.app_memorable&hl=es_419",
+    "appStoreLink": "https://apps.apple.com/es/app/memorable/id1641700880"
+  },
+  {
+    "img": "public/img/sites/fennech.png",
+    "title": "fennech",
+    "description": "fennech is a project and employee management software that empowers admin users to create and manage projects and employees. It provides insights into project health and profitability, tracks employee performance, and includes critical details such as injuries or vacation status, ensuring efficient oversight and decision-making.",
+    "name": "fennech",
+    "longDescription": "Fennech is a powerful project and employee management software designed to empower administrators with comprehensive tools for creating, managing, and optimizing both projects and workforce operations. The platform allows admins to effortlessly create and oversee projects while gaining valuable insights into project health, profitability, and progress. Simultaneously, it provides robust employee management capabilities, including performance tracking, vacation status updates, and critical information such as injury reports, ensuring a well-coordinated and productive team. <br><br>By centralizing project and employee data, Fennech enables efficient oversight, informed decision-making, and streamlined workflows. Its intuitive interface and advanced analytics help organizations maintain a clear view of project outcomes and employee contributions, fostering a balanced and productive work environment. Whether tracking project milestones or managing team dynamics, Fennech is an indispensable tool for businesses seeking to enhance operational efficiency and drive success.",
+    "link": "https://platform.fennech.io/login/",
+    "technologies": [
+      "devicon-javascript-plain",
+      "devicon-angularjs-plain",
+      "devicon-php-plain",
+      "devicon-symfony-original"
+    ],
+    "playStoreLink": "",
+    "appStoreLink": ""
+  }
+]
